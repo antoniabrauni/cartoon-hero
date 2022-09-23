@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Test page</title>
+</head>
+<body></body>
+<h1>Hey. I'm a big heading</h1>
+	<p>Hey. I'am a <i>paragraph</i> elment</p>
+	<a href="https://google.com"target="_blank" title="let's go to google">Click me! I'am a link!</a>
+	<p>My name is: <br>Horsy horse</p>
+	<img src="https://www.cavalluna.com/fileadmin/og-images/Pferderassen/og-image-american-quarter-horse-1200x630.png">
+</body>
+</html>
