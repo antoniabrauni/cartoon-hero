@@ -1,4 +1,3 @@
 <h1>Hey. I'm a big heading</h1>
-	<p>Hey. I'am a paragraph elment</p>
+	<p>Hey. I'am a <b>paragraph<b> elment</p>
 	<a href="https://google.com"target="_blank" title="let's go to google">Click me! I'am a link!</a>
-	
